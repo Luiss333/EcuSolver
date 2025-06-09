@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/EcuSolver/static/css/main.30765524.css",
+    "main.js": "/EcuSolver/static/js/main.ab022442.js",
+    "static/js/453.c6d04602.chunk.js": "/EcuSolver/static/js/453.c6d04602.chunk.js",
+    "index.html": "/EcuSolver/index.html",
+    "main.30765524.css.map": "/EcuSolver/static/css/main.30765524.css.map",
+    "main.ab022442.js.map": "/EcuSolver/static/js/main.ab022442.js.map",
+    "453.c6d04602.chunk.js.map": "/EcuSolver/static/js/453.c6d04602.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30765524.css",
+    "static/js/main.ab022442.js"
+  ]
+}
